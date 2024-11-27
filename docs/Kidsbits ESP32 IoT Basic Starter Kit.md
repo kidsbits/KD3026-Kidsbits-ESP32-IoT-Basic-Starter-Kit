@@ -177,7 +177,8 @@ Interface: Telephone socket
 
 ![a6](./media/a6.png)
 
-<center>Schematic diagram of traffic light module<center>
+<center>Schematic diagram of traffic light module</center>
+
 
 We know from the schematic that the traffic light module is assembled by red, yellow, and green LED modules. So when we control this module, we are actually controlling LEDs.
 
@@ -327,7 +328,8 @@ Pulse width is the high level in a complete square wave cycle. So, pulse width m
 
 ![a8](./media/a8.gif)
 
-<center>The relationship between duty cycle and LED brightness<center>
+<center>The relationship between duty cycle and LED brightness</center>
+
 
 
 The longer the high level time is, the greater the duty cycle will be, and the brighter the LED will be.
@@ -980,12 +982,13 @@ Tilt the module to make the ball roll to the pin end to conduct two pins, so the
 
 ![a18](./media/a18.png)
 
-<center>Schematic diagram of working principle<center>
+<center>Schematic diagram of working principle</center>
+
 
 
 ![a19](./media/a19.png)
 
-<center>Tilt module schematic diagram<center>
+<center>Tilt module schematic diagram</center>
 
 
 **4. Wiring Diagram**
